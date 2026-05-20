@@ -1,5 +1,7 @@
 # App Motiva
 
+[Design no Figma](https://www.figma.com/design/7eEq8Em0Lk0C8fphiyMqBM/App-Motiva?m=auto&t=XYU2tCTFXcYhJlfn-1)
+
 ## Membros
 
 - Allan de Souza Cardoso - RM 561721
